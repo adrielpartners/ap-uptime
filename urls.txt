@@ -7,3 +7,4 @@ https://sitecare.adrielpartners.com/api/health
 https://wpab-worker.marketinghero.net/health
 https://n8n.adrielpartners.com/health/ready
 https://errors.adrielpartners.com
+https://app.tvsigns.app/health/ready
